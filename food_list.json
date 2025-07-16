@@ -130,7 +130,7 @@
       "category": "BBQ y Platos Principales",
       "imageURL": "https://raw.githubusercontent.com/Almdelui/kfood-app-images/main/food/godeungeo_gui.webp",
       "eatingGuide": "Se sirve caliente y crujiente. Retira la piel y las espinas con cuidado. Come la carne con arroz blanco y un poco de salsa de soja con wasabi si se ofrece. Es un plato principal.",
-      "pairings": [{"id": "C9D0E1F2-A3B4-4C5D-6E7F-8A9B0C1D2E3F", "name": "Soju", "type: "drink"}],
+      "pairings": [{"id": "C9D0E1F2-A3B4-4C5D-6E7F-8A9B0C1D2E3F", "name": "Soju", "type": "drink"}],
       "allergens": ["fish", "soy"],
       "isVegetarianFriendly": false,
       "spiceLevel": 1,
